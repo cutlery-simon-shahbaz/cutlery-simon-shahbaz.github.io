@@ -1290,4 +1290,8 @@ input[type="text"] {
   opacity: 0;
 }
 
+.photo2 {
+  border-radius: 100%;
+  margin-left: auto;
+}
 /*# sourceMappingURL=style.css.map */
